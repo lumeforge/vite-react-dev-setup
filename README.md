@@ -9,7 +9,7 @@ To use this template, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/lumeforge/vite-react-dev-setup.git
+git clone https://github.com/lumeforge/react-setup-with-vite.git
 ```
 
 2. Navigate to the cloned directory:
